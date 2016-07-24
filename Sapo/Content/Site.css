@@ -1,0 +1,40 @@
+﻿/*Header*/
+#header{
+    position : absolute ;
+    width : 100% ;
+    border:1px solid #333 ;
+}
+
+.main-menu{
+    height : 90px ;
+    background : transparent ;
+
+}
+
+
+.logo{
+    
+    padding : 15px 0px ;
+}
+
+.main-menu .nav li a {
+    color : white ;
+}
+.main-menu .nav > li{
+    float : left ;
+    margin-right : 30px ;
+
+}
+
+.nav > li{
+    display : block ;
+}
+
+/*:::::Content:::::::::*/
+.clearfix{
+
+    border : 1px solid #333 ;
+    height : 400px ;
+}
+
+
